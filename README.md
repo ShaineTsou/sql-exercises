@@ -8,3 +8,4 @@ My solutions (written in MySQL) to SQL problems from LeetCode
 - [Recyclable and Low Fat Products](./Select/recyclable-and-lowfat.sql)
 - [Find Customer Referee](./Select/find-customer-referee.sql)
 - [Customers Who Never Order](./Select/customers-who-never-order.sql)
+- [Calculate Special Bonus](./Select/calculate-special-bonus.sql)
